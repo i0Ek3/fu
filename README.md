@@ -2,8 +2,20 @@
 
 > Yes, fu means that word, f\*\*k you!
 
-Actually `fu` is a model to train the data and output wrong result, so I named it fu.
+`fu` is essentially a seq2seq model, but it is a misleading model to output the wrong result randomly from given sequences, so I named it `fu`.
 
-## Points
+## Architecture
 
-soon...
+comming soon...
+
+## Dataset
+
+comming soon...
+
+## Declaration
+
+DO NOT use this model on your productive enviornment, `fu` mading just for fun.
+
+## Credit
+
+You all guys who contribute on GitHub for ML/DL promotion.
